@@ -31,7 +31,7 @@ aws_secret_access_key = z1K4.....se2   <-- from IAM console
 
 #### Author
 
-- Zeeshan Rizvi / @zeerizvi
+- Zeeshan Rizvi / [@zeerizvi](https://twitter.com/zeerizvi/)
 
 #### License
 
